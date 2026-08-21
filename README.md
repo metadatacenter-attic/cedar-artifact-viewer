@@ -1,4 +1,13 @@
-# Cedar Artifact Viewer
+# CEDAR Artifact Viewer — DEPRECATED
+
+> [!WARNING]
+> This repository was frozen on 2026-08-20 and is no longer maintained. Do not
+> add new dependencies on this web component.
+
+Use CEDAR OpenView for artifact viewing. Form rendering and metadata entry are
+provided by the CEDAR Embeddable Editor within the maintained CEDAR frontends.
+
+The source and build instructions below are retained for historical reference.
 
 ## Development server
 
@@ -71,4 +80,3 @@ using parameters:
 | showHeader                     | boolean | false         | Show app header                                                                                                                      |
 | showFooter                     | boolean | false         | Show app footer                                                                                                                      |
 | terminologyIntegratedSearchUrl | URL     | None          | URL for CEDAR integrated search endpoint. One possible value is: https://terminology.metadatacenter.orgx/bioportal/integrated-search | |
-
