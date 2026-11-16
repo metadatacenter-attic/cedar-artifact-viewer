@@ -35,7 +35,7 @@
     "@webcomponents/custom-elements": "~1.2.4",
     "core-js": "~3.25.2",
     "hammerjs": "~2.0.8",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.18.1",
     "ngx-mat-select-search": "^4.0.2",
     "ngx-youtube-player-14": "~7.1.16",
     "rxjs": "~6.6.7",
